@@ -12,8 +12,8 @@ html, body {
 
 header {
   display: flex;
-  border-top: 1px solid grey;
-  border-bottom: 1px solid grey;
+  border-top: 2px solid #a4a8a7;
+  border-bottom: 2px solid #a4a8a7;
   height: 150px;
   margin: 30px 140px 0 140px;
   margin-top: 30px;
@@ -27,8 +27,8 @@ header {
   display: flex;
   width: 600px;
   height: 70px;
-  border-left: 1px solid #a6b5c4;
-  border-right: 1px solid #a6b5c4;
+  border-left: 2px solid #a4a8a7;
+  border-right: 2px solid #a4a8a7;
   justify-content: center;
   align-items: center;
 }
@@ -68,8 +68,8 @@ header {
 .main-container {
   display: flex;
   height: 1300px;
-  border-left: 1px solid #35332C;
-  border-right: 1px solid #35332C;
+  border-left: 2px solid #a4a8a7;
+  border-right: 2px solid #a4a8a7;
   margin-top: 30px;
   margin-left: 140px;
   margin-right: 140px;
@@ -82,8 +82,8 @@ header {
   justify-content: center;
   width: 1300px;
   height: 1100px;
-  border-top: 1px solid rgb(68, 61, 61);
-  border-bottom: 1px solid rgb(68, 61, 61);
+  border-top: 2px solid #a4a8a7;
+  border-bottom: 2px solid #a4a8a7;
   padding: 30px 30px;
 }
 
@@ -108,8 +108,8 @@ header {
 }
 
 .info-container > li {
-  border-right: 1px solid rgba(97, 96, 96, 0.829);
-  border-left: 1px solid rgba(97, 96, 96, 0.829);
+  border-right: 1px solid #a4a8a7;
+  border-left: 1px solid #a4a8a7;
   margin-top: 40px;
   max-width: 90%;
   font: 1.5em "Fira Sans ", serif;
@@ -126,8 +126,8 @@ header {
   display: flex;
   height: 140px;
   width: 100%;
-  border-top: 1px solid #4F4B40;
-  border-bottom: 1px solid #4F4B40;
+  border-top: 2px solid #a4a8a7;
+  border-bottom: 2px solid #a4a8a7;
   justify-content: center;
   align-items: center;
 }
